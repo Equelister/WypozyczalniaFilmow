@@ -1,0 +1,2 @@
+Admin;Admin1;1
+Gosc;haslo;2
